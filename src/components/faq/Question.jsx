@@ -55,11 +55,6 @@ const Question = () => {
       </div>
 
       <div className="mb-4">
-        <h2 className="text-xl font-semibold mb-2 text-white">Are you related to DALL·E mini?</h2>
-        <p className="text-gray-400">Yes, John who trained the current version of the AI model, Pedro Cuenca who worked on the backend, and Suraj Patil are part of the Artio team.</p>
-      </div>
-
-      <div className="mb-4">
         <h2 className="text-xl font-semibold mb-2 text-white">What if my images don’t appear?</h2>
         <p className="text-gray-400">We recommend trying a different browser first, or going incognito. Clearing your cache might also do the trick. If not, try restarting your phone or computer, or wait until a little later and try again.</p>
         <p className="text-gray-400 mt-2">After restarting your device and the AI generated images still don't appear, let us know through an email at team@Artio.com or let us a message on Discord and we'll look into it.</p>
